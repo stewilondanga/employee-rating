@@ -6,6 +6,10 @@
   --black: rgba(0, 0, 0, 0.9);
 }
 
+html, body {
+  height: 100%;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -115,10 +119,6 @@
   transition-delay: 0.4s;
 }
 
-
-html, body {
-	height: 100%;
-}
 
 body {
 	display: flex;
