@@ -122,13 +122,13 @@ body {
   transition-delay: 0.4s;
 }
 
-/*
 main {
-	background: rgba(255, 255, 255, 0.85);
-	padding: 0.25em;
-	font-size: 2em;
+  background: rgba(255, 255, 255, 0.85);
+  padding: 0.25em;
+  font-size: 2em;
 }
 
+/*
 table {
 	border-collapse: collapse;
 }
